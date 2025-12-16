@@ -55,7 +55,7 @@ This is a **frontend-only dummy project** created for learning and portfolio pur
 Founder of **MONXCODE**
 
 📧 Email: parmarmohansingh26@gmail.com  
-📍 Kumbhalgarh, Rajasthan, India
+📍 Udaipur/Kumbhalgarh, Rajasthan, India
 
 ---
 
