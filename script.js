@@ -1,4 +1,4 @@
-        // ===== JAVASCRIPT CODE =====
+     
 
         // DOM Elements
         const hamburger = document.querySelector('.hamburger');
