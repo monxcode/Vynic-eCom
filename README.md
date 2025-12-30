@@ -1,6 +1,6 @@
 #  Vynic-eCom
 
-##Live here: "https://monxcode.github.io/Vynic-eCom/"
+**Live here:** "https://monxcode.github.io/Vynic-eCom/"
 
 **Vynic-eCom** is a **dummy e-commerce website** created to represent the look and feel of a modern online shopping brand.  
 This project focuses on UI design, layout structure, and frontend presentation rather than real transactions.
